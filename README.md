@@ -1,2 +1,2 @@
-# AppAfinadorDiapasao
-Aplicativo Java de um afinador diapasão e um mostrador de notas com cifragem para violão
+# Guitar Tuner
+It's a app made in Java that play the sound of note and show the finger's position to do the correct note in guitar.
